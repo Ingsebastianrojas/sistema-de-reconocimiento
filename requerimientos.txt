@@ -1,0 +1,39 @@
+# ==============================
+# CORE
+# ==============================
+fastapi
+uvicorn
+
+# ==============================
+# BASE DE DATOS
+# ==============================
+sqlalchemy
+psycopg2-binary
+alembic
+
+# ==============================
+# AUTENTICACION
+# ==============================
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+
+# ==============================
+# COMPUTER VISION
+# ==============================
+opencv-python
+opencv-contrib-python
+numpy
+pillow
+
+# ==============================
+# RECONOCIMIENTO FACIAL
+# ==============================
+deepface
+mediapipe
+
+# ==============================
+# UTILIDADES
+# ==============================
+pydantic
+python-dotenv
