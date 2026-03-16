@@ -30,7 +30,7 @@ pillow
 # RECONOCIMIENTO FACIAL
 # ==============================
 deepface
-mediapipe
+mediapipe 
 
 # ==============================
 # UTILIDADES
